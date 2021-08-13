@@ -3,3 +3,4 @@ venkatesh teamleader IT 20000
 suresh developer IT 15000
 ramesh tester IT 13000
 balayya admin IT 12000
+Nagarjuna Admin IT 11000
